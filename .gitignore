@@ -1,0 +1,16 @@
+# objetos e binarios
+*.o
+obj/
+cub3D
+*.a
+.DS_Store
+
+# miniLibX (gerados pelo configure)
+minilibx/obj/
+minilibx/libmlx*.a
+minilibx/Makefile.gen
+minilibx/test/Makefile.gen
+minilibx/test/mlx-test
+
+# anotacoes locais
+claude/

@@ -1,0 +1,13 @@
+NO ./textures/north.xpm
+SO ./textures/south.xpm
+WE ./textures/west.xpm
+EA ./textures/east.xpm
+SP ./textures/sprite_0.xpm
+F 90,90,90
+SP ./textures/sprite_1.xpm
+C 40,40,70
+
+11111
+10201
+10N01
+11111

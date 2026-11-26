@@ -1,0 +1,19 @@
+NO ./textures/north.xpm
+SO ./textures/south.xpm
+WE ./textures/west.xpm
+EA ./textures/east.xpm
+DO ./textures/door.xpm
+SP ./textures/sprite_0.xpm ./textures/sprite_1.xpm ./textures/sprite_2.xpm ./textures/sprite_3.xpm
+F 90,90,90
+C 40,40,70
+
+1111111111111111
+1000001000000001
+1020001002000201
+100000D000011101
+1000001000010001
+11D1111111D10001
+1000000001000001
+10E020002D002001
+1000000001000001
+1111111111111111
